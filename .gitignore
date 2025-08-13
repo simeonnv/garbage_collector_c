@@ -1,5 +1,9 @@
 # Prerequisites
 *.d
+.xmake/
+build/
+.cache/
+
 
 # Object files
 *.o

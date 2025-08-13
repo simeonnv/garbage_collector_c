@@ -1,0 +1,16 @@
+[
+{
+  "directory": "/home/simeon/Documents/GitHub/garbage_collector_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-Iinclude", "-I", "/home/simeon/.xmake/packages/c/c-vector/v1.0/bb7b95ff661e4a41835fe4b10ba9d575/include", "-DNDEBUG", "-o", "build/.objs/gc/linux/x86_64/release/src/gc.c.o", "src/gc.c"],
+  "file": "src/gc.c"
+},
+{
+  "directory": "/home/simeon/Documents/GitHub/garbage_collector_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-Iinclude", "-DNDEBUG", "-o", "build/.objs/basic_usage/linux/x86_64/release/examples/basic_usage.c.o", "examples/basic_usage.c"],
+  "file": "examples/basic_usage.c"
+},
+{
+  "directory": "/home/simeon/Documents/GitHub/garbage_collector_c",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-Iinclude", "-DNDEBUG", "-o", "build/.objs/test_gc/linux/x86_64/release/tests/test_gc.c.o", "tests/test_gc.c"],
+  "file": "tests/test_gc.c"
+}]
